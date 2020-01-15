@@ -5,4 +5,4 @@ changed file to file
 
 line after bynch of files 
 1
-2 
+2  added word on the same line 
